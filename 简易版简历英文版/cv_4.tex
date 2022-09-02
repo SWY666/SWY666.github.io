@@ -1,0 +1,132 @@
+\documentclass{resume} % Use the custom resume.cls style
+% \usepackage[UTF8]{ctex}
+\usepackage{hyperref}
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+
+\name{Weiyu Sun} % Your name
+% \address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
+\address{Email: weiyusun@smail.nju.edu.cn} % Your phone number and email
+\address{Personal website: \url{https://swy666.github.io/index.html}}
+% \address{Academic website: \url{https://swy666.github.io/index.html}}
+% \address{个人邮箱:2242469978@qq.com}
+% \address{个人电话:15050551145}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Education Experience}
+    {\bf Nanjing University} \hfill {\em Bachelor 2015.9-2019.6} \\
+    Electronic Engineering \& Communication Engineering \\
+
+    {\bf Nanjing University} \hfill {\em Master 2019.9-2022.6} \\
+    Electronic Engineering \& Medical Engineering \\
+
+\end{rSection}
+
+\begin{rSection}{Internship$\&$Working Experience}
+    {\bf Carnegie Mellon University (online)} \hfill {\em Research Internship 2021.7-2021.9} \\
+    Computer Science \& Bioinformatic Engineering \\
+    {$\bullet$ Investigation on applying efficient active learning method to boost the training of protein-drug experiment result prediction matrix. \\
+    $\bullet$ According to the property of matrix-form data structure, adjusting the configuration of data to fit the RBF kernel based Beysian Optimization method $\&$ random forest regression method. As a result, the training process via active learning becomes more efficient, with about 25$\%$ speed improvement to reach the same predict precision. \\
+    $\bullet$ Based on experiments result, published it as paper on EIECT 2021.}
+
+    {\bf Pennsylvania State University (online)} \hfill {\em Research Internship 2022.6-hitherto} \\
+    Computer Science \& Trustworthy Altifical Intelligence \\
+    {$\bullet$ Investigation on backdoor $\&$ poison attack strategy on self-supervised learning method. \\
+    $\bullet$ Reimplement classical backdoor $\&$ poison attack and defence strategy, conclude that they both have limitation for efficient working.\\
+    $\bullet$ Applying min-min optimization to alternatively train trigger $\&$ poison to generate more robust attacking pattern. Currently gain about 20\% attack success rate enhancement on BYOL and MoCo (currently best attack success rate), and without the limitation of stick trained pattern on same category.\\
+    $\bullet$ Due to mechanism of loss function of MoCo, which resulting into attack success rate droping during the downstream training on clean datasets, attempt to apply gradient matching strategy to brew attack patterns to solve this problem.\\
+    $\bullet$ Still on going, gain the acknowledgement of my Internship tutor, with return offer and recommend letter.}
+
+    {\bf Affiliate workshop of Nanjing University, Zerorui} \hfill {\em Algorithm researcher 2020.7-2022.6} \\
+    Remote Video Based Biological Information Extraction \\
+    {$\bullet$ Investigation on video-based remote heart rate detection method. Design relative algorithm and corresponding engineering realization. \\
+    $\bullet$ Teamwork with other team members, published functional platform \url{http://sass.zerorui.cn/#/home}. It can recognize registered users through webcams and report their current heart rate $\&$ other health indicators, then save them into database using Mysql. \\
+    $\bullet$ Also implement offline product on windows and linux operation system using python and cython, code can be found in \url{https://github.com/SWY666/rPPG_UI_interface}. \\
+    $\bullet$ Training related end-to-end network structure demands on forms of dataset, due to the physiological delay between label waves and real faical heart rata signal. To fix it, design special label representation method to conquer such defection of datasets and lead to convenient and efficient network training. Moreover, proposed method can reach the \textbf{SOTA} valid heart rate prediction precision. Work has been submitted to AAAI 2023 and under review, and published corresponding patent, code can be find on \url{https://github.com/SWY666/BYHE}.}
+\end{rSection}
+
+\begin{rSection}{Publication}
+    {\em AAAI 2023 (Under review) \\ 1st author\\ \bf ``BYHE: A Simple Framework for Boosting End-to-end Video-based Heart Rate Measurement Network'' \\ Source Code: \url{https://github.com/SWY666/BYHE} \\ \em Arxiv Link: Plan to publish after review step 1, contact me if interested.}
+
+    {\em EIECT 2021 \\ 1st author \\ \bf ``A recessive active learning method: enhancing the performance of predict models by adjusting the structure of data space'' \\ \em Proc. SPIE 12087, International Conference on Electronic Information Engineering and Computer Technology (EIECT 2021), 120871W (13 December 2021)}
+
+    {\em CHINA PATENT \\ 1st author \\ \bf ``A Method of Image Classification Based on SCCNN Network'' \\ \em No.2020115132992}
+
+    {\em CHINA PATENT \\ 1st author \\ \bf ``A Deep Learning Remote Heart Rate Measurement based on faical video'' \\ \em No.2022051901560520}
+
+\end{rSection}
+
+\begin{rSection}{Selected Award}
+    {{\bf 2021 Microsoft Innovation Cup Global Student Technology Competition} \\ \hfill {\em the Second Prize in Jiangsu Province}}
+
+    {{\bf Scholarship of School of Electronic Science and Engineering} \\ \hfill {\em top 20\%}}
+\end{rSection}
+
+% \begin{rSection}
+
+% \end{rSection}
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+% \begin{rSection}{科研和工作经历}
+
+% \begin{rSubsection}{SCCNN网络对于肝癌数据的病理判断}{2020年}{算法研究员}{南京大学}
+%     \item 实验室的传统项目, 利用IBS算法衡量不同系统的差异性, 利用孪生网络的机制有效扩大数据集的容积, 让网络能够多样化地学习。配合IBS算法以及孪生网络的机制, 我们的网络结构能够在肝癌数据集的判断上达到95\%的准确度。
+%     \item 关于该研究, 以专利的第一作者申请了专利《一种基于SCCNN网络的图片分类方法》, 申请号为2020115132992, 目前通过率初步审查。
+% \end{rSubsection}
+
+% \begin{rSubsection}{基于算法的远程视频心率提取方法的研究与开发}{2020年}{算法研究员, 程序开发员}{南京大学\&南京零睿科技有限公司}
+%     \item 尝试使用各种皮肤提取算法, 去雾算法以及PCA, ICA, CHROM等信号提取方法以及滤波方法更好地从人脸视频中提取心率信息。
+%     \item 使用C++以及python以及Qt, 设计了一款多进程的实时心率提取软件。它能够实时地通过摄像头采集视频流，通过人脸识别方法提取视频中的人脸信息，最后再对人脸视频进行心率信息的提取返回给用户端。
+%     \item 在算法开发和测试完成后，和南京零睿科技有限公司合作，并参与了健康服务网站的开发。我在其中担任的职位是算法研究员以及程序测试员以及产品小组的组长。最后的成品网站可见\url{http://enterprise.zerorui.cn/#/login}。
+% \end{rSubsection}
+
+% %------------------------------------------------
+
+% \begin{rSubsection}{主动学习在研究蛋白质和药物之间反应的研究}{2021年}{夏令营成员}{北京\& 卡耐基梅隆大学}
+%     \item 学习了生物信息方面的知识，尝试使用主动学习的方法提高蛋白质与药物反应矩阵的模型预测效率。
+%     \item 使用随机森林决策树回归模型以及贝叶斯优化器对蛋白质和药物反应矩阵进行模型预测效率的研究，通过根据已经做过的生物实验调整蛋白质和药物反应矩阵的行列位置，配合传统的主动学习方法，进一步加速模型预测的效率。
+%     \item 根据研究和发现, 在导师的辅导下最后将研究的结果成文并作为EI论文发表在EIECT2021会议上。
+% \end{rSubsection}
+
+
+% \begin{rSubsection}{基于深度学习的非接触式远程心率测量方法}{2022年}{算法研究员}{南京大学}
+%     \item 克服了传统的远程心率测量方法易受干扰的特点, 手动搭建了新的神经网络框架, 该框架能够快速地学习并且为最终的结果提供可靠的置信度指标, 是目前已发表的远程心率测量方法中, 准确度和抗干扰性最高的算法。相比于传统的心率检测方法, 新的神经网络框架估计的心率误差要低100\%到220\%。
+%     \item 关于该项目的研究, 以论文的第一作者的身份完成了论文的创作, 目前正在等待会议的审稿结果。
+% \end{rSubsection}
+
+% %------------------------------------------------
+
+
+% \end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+% \begin{rSection}{技能与证书}
+
+%     \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+%         计算机技能 & python(常用), C++(偶尔用), matlab(较少使用), rust和网络编程(入门) \\
+%         语言技能   & 英语CET4, 6级, 托福100分, GRE 325分(语言157+数学168)              \\
+%     \end{tabular}
+
+% \end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EXAMPLE SECTION
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{Section Name}
+
+%Section content\ldots
+
+%\end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
