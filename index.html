@@ -7,8 +7,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="stylesheet" type="text/css" href="./css/image_show.css">
 	<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
 </head>
+
 
 <body>
   <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
@@ -35,14 +37,15 @@
               <p style="text-align:center">
                 <a href="weiyusun666@gmail.com">Email</a> &nbsp/&nbsp
                 <a href="data/JonBarron-CV.pdf">CV</a> &nbsp/&nbsp
-                <a href="data/JonBarron-bio.txt">Bio</a> &nbsp/&nbsp
+                <!-- <a href="data/JonBarron-bio.txt">Bio</a> &nbsp/&nbsp
                 <a href="https://scholar.google.com/citations?hl=en&user=jktWnL8AAAAJ">Google Scholar</a> &nbsp/&nbsp
-                <a href="https://twitter.com/jon_barron">Twitter</a> &nbsp/&nbsp
-                <a href="https://github.com/jonbarron/">Github</a>
+                <a href="https://twitter.com/jon_barron">Twitter</a> &nbsp/&nbsp -->
+                <a href="https://github.com/SWY666">Github</a>
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <a href="images/JonBarron.jpg"><img style="width:100%;max-width:100%" alt="profile photo" src="images/JonBarron_circle.jpg" class="hoverZoomLink"></a>
+              <!-- <a href="images/SWY.png"><img style="width:100%;max-width:100%" alt="profile photo" src="images/SWY.png" class="hoverZoomLink"></a> -->
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images/SWY.png">
             </td>
           </tr>
         </tbody></table>
@@ -51,7 +54,7 @@
             <td style="padding:20px;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
-                I'm interested in computer vision, machine learning, optimization, and image processing. Much of my research is about inferring the physical world (shape, motion, color, light, etc) from images. Representative papers are <span class="highlight">highlighted</span>.
+                I'm interested in computer vision, machine learning, optimization, and image processing. Some of my research is about video analyzing (mainly focus on physiological signal extraction and processing), and the remaining is about trustworthy AI (the backdoor threats on all kinds of DNN models). Representative papers are <span class="highlight">highlighted</span>.
               </p>
             </td>
           </tr>
@@ -60,16 +63,24 @@
 				
 
 
-    <tr onmouseout="bakedsdf_stop()" onmouseover="bakedsdf_start()">
+    <tr onmouseout="bakedsdf_stop()" onmouseover="bakedsdf_start()" bgcolor="#ffffd0">
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
-          <div class="two" id='bakedsdf_image'><video  width=100% height=100% muted autoplay loop>
+          <!-- <div class="two" id='bakedsdf_image'><video  width=100% height=100% muted autoplay loop>
           <source src="images/bakedsdf_after.mp4" type="video/mp4">
           Your browser does not support the video tag.
-          </video></div>
-          <img src='images/bakedsdf_before.jpg' width="160">
+          </video></div> -->
+          <!-- <img src='images/ACM_MM_2023_Heart_Rate_seal.png' width="160"> -->
+          
+
+          <img class="hover-image", src="images/ACM_MM_2023_Heart_Rate_seal.png" width="160" alt="图像" onclick="showModal(this)">
+
+          <div id="modal" class="modal" onclick="hideModal()">
+          <img id="modal-image" class="modal-image">
+          </div>
+
         </div>
-        <script type="text/javascript">
+        <!-- <script type="text/javascript">
           function bakedsdf_start() {
             document.getElementById('bakedsdf_image').style.opacity = "1";
           }
@@ -78,32 +89,41 @@
             document.getElementById('bakedsdf_image').style.opacity = "0";
           }
           bakedsdf_stop()
-        </script>
+        </script> -->
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
-        <a href="https://bakedsdf.github.io/">
-          <papertitle>BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis</papertitle>
+        <a href="https://github.com/SWY666/rPPG-DOHA">
+          <papertitle>Resolve Domain Conflicts for Generalizable Remote Physiological Measurement</papertitle>
         </a>
         <br>
-        <a href="https://lioryariv.github.io/">Lior Yariv*</a>,
-        <a href="https://phogzone.com/">Peter Hedman*</a>,
+        <strong>Weiyu Sun</strong>,
+        Xinyu Zhang,
+        Hao Lu,
+        Ying Chen,
+        Yun Ge,
+        Xiaolin Huang,
+        Jie Yuan,
+        <a href="https://www.yingcong.me/">Yingcong Chen</a>
+        <!-- <a href="https://phogzone.com/">Peter Hedman*</a>,
         <a href="https://creiser.github.io/">Christian Reiser</a>,
         <a href="https://dorverbin.github.io/">Dor Verbin</a>,  <br>
         <a href="https://pratulsrinivasan.github.io/">Pratul Srinivasan</a>,
         <a href="https://szeliski.org/RichardSzeliski.htm">Richard Szeliski</a>,
         <strong>Jonathan T. Barron</strong>,
-        <a href="https://bmild.github.io/">Ben Mildenhall</a>
+        <a href="https://bmild.github.io/">Ben Mildenhall</a> -->
         <br>
-        <em>SIGGRAPH</em>, 2023
+        <em><a href="https://www.acmmm2023.org/">ACM MM, 2023</a></em>
         <br>
-        <a href="https://bakedsdf.github.io/">project page</a>
+        <a href="https://github.com/SWY666/">project page</a>
         /
-        <a href="https://www.youtube.com/watch?v=fThKXZ6uDTk">video</a>
+        <!-- <a href="https://www.youtube.com/watch?v=fThKXZ6uDTk">video</a>
         /
-        <a href="https://arxiv.org/abs/2302.14859">arXiv</a>
-        <p></p>
+        <a href="https://arxiv.org/abs/2302.14859">arXiv</a> -->
+        <!-- <p>
+        The main character of this paper is remote photoplethysmography (rPPG), a technique which can monitor the subject's physiological signal (e.g., heart rate) via the facial video.
+        </p> -->
         <p>
-        We use SDFs to bake a NeRF-like model into a high quality mesh and do real-time view synthesis.
+          We reveal two characteristic domain conflict issues in the DNN rPPG (<a href="https://www.noldus.com/blog/what-is-rppg">remote photoplethysmography</a>) model training, and propose a new training framework (DOHA) to deal with these conflicts and enhance the performance of rPPG models.
         </p>
       </td>
     </tr>
@@ -289,8 +309,6 @@
       </td>
     </tr>
 
-    
-
     <tr onmouseout="alignerf_stop()" onmouseover="alignerf_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
@@ -335,49 +353,51 @@
       </td>
     </tr>
     
-<tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#ffffd0">
-  <td style="padding:20px;width:25%;vertical-align:middle">
-    <div class="one">
-      <div class="two" id='dreamfusion_image'><video  width=100% height=100% muted autoplay loop>
-      <source src="images/dreamfusion.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-      </video></div>
-      <img src='images/dreamfusion.jpg' width="160">
-    </div>
-    <script type="text/javascript">
-      function dreamfusion_start() {
-        document.getElementById('dreamfusion_image').style.opacity = "1";
-      }
+    <tr onmouseout="dreamfusion_stop()" onmouseover="dreamfusion_start()"  bgcolor="#ffffd0">
+    <td style="padding:20px;width:25%;vertical-align:middle">
+      <div class="one">
+        <div class="two" id='dreamfusion_image'><video  width=100% height=100% muted autoplay loop>
+        <source src="images/dreamfusion.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+        </video></div>
+        <img src='images/dreamfusion.jpg' width="160">
+      </div>
+      <script type="text/javascript">
+        function dreamfusion_start() {
+          document.getElementById('dreamfusion_image').style.opacity = "1";
+        }
 
-      function dreamfusion_stop() {
-        document.getElementById('dreamfusion_image').style.opacity = "0";
-      }
-      dreamfusion_stop()
-    </script>
-  </td>
-  <td style="padding:20px;width:75%;vertical-align:middle">
-    <a href="https://dreamfusion3d.github.io/">
-      <papertitle>DreamFusion: Text-to-3D using 2D Diffusion</papertitle>
-    </a>
-    <br>
-    <a href="https://cs.stanford.edu/~poole/">Ben Poole</a>,
-    <a href="https://www.ajayj.com/">Ajay Jain</a>,
-    <strong>Jonathan T. Barron</strong>,
-		<a href="https://bmild.github.io/">Ben Mildenhall</a>
-    <br>
-    <em>ICLR</em>, 2023 &nbsp <font color="red"><strong>(Oral Presentation, Outstanding Paper Award)</strong></font>
-    <br>
-    <a href="https://dreamfusion3d.github.io/">project page</a>
-    /
-    <a href="https://arxiv.org/abs/2209.14988">arXiv</a>
-    /
-    <a href="https://dreamfusion3d.github.io/gallery.html">gallery</a>
-    <p></p>
-    <p>
-    We optimize a NeRF from scratch using a pretrained text-to-image diffusion model to do text-to-3D generative modeling.
-    </p>
-  </td>
-</tr>
+        function dreamfusion_stop() {
+          document.getElementById('dreamfusion_image').style.opacity = "0";
+        }
+        dreamfusion_stop()
+      </script>
+    </td>
+
+
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://dreamfusion3d.github.io/">
+        <papertitle>DreamFusion: Text-to-3D using 2D Diffusion</papertitle>
+      </a>
+      <br>
+      <a href="https://cs.stanford.edu/~poole/">Ben Poole</a>,
+      <a href="https://www.ajayj.com/">Ajay Jain</a>,
+      <strong>Jonathan T. Barron</strong>,
+      <a href="https://bmild.github.io/">Ben Mildenhall</a>
+      <br>
+      <em>ICLR</em>, 2023 &nbsp <font color="red"><strong>(Oral Presentation, Outstanding Paper Award)</strong></font>
+      <br>
+      <a href="https://dreamfusion3d.github.io/">project page</a>
+      /
+      <a href="https://arxiv.org/abs/2209.14988">arXiv</a>
+      /
+      <a href="https://dreamfusion3d.github.io/gallery.html">gallery</a>
+      <p></p>
+      <p>
+      We optimize a NeRF from scratch using a pretrained text-to-image diffusion model to do text-to-3D generative modeling.
+      </p>
+    </td>
+    </tr>
 		  
 
 
@@ -450,5 +470,42 @@
     </tr>
   </table>
 </body>
+
+
+<style>
+  .modal {
+     display: none;
+     position: fixed;
+     z-index: 9999;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     background-color: rgba(0, 0, 0, 0.8);
+  }
+
+  .modal-image {
+     display: block;
+     max-width: 90%;
+     max-height: 90%;
+     margin: auto;
+     margin-top: 5%;
+  }
+</style>
+
+<script>
+  function showModal(image) {
+     var modal = document.getElementById("modal");
+     var modalImage = document.getElementById("modal-image");
+     modal.style.display = "block";
+     modalImage.src = image.src;
+  }
+
+  function hideModal() {
+     var modal = document.getElementById("modal");
+     modal.style.display = "none";
+  }
+</script>
+
 
 </html>
