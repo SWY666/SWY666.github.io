@@ -14,7 +14,7 @@
 
 /* This CSS code will apply the hover effect */
 .hover-image {
-    width: 150px; /* Set your preferred width */
+    width: 160px; /* Set your preferred width */
     transition: transform 0.3s; /* Add a smooth transition effect */
     box-shadow: 0 0 1px rgba(0, 0, 0, 0);
 }

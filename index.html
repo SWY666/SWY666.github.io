@@ -65,7 +65,7 @@
 
     <tr onmouseout="bakedsdf_stop()" onmouseover="bakedsdf_start()" bgcolor="#ffffd0">
       <td style="padding:20px;width:25%;vertical-align:middle">
-        <div class="one">
+        <!-- <div class="one"> -->
           <!-- <div class="two" id='bakedsdf_image'><video  width=100% height=100% muted autoplay loop>
           <source src="images/bakedsdf_after.mp4" type="video/mp4">
           Your browser does not support the video tag.
@@ -73,13 +73,13 @@
           <!-- <img src='images/ACM_MM_2023_Heart_Rate_seal.png' width="160"> -->
           
 
-          <img class="hover-image", src="images/ACM_MM_2023_Heart_Rate_seal.png" width="160" alt="图像" onclick="showModal(this)">
+          <img class="hover-image", src="images/ACM_MM_2023_Heart_Rate_seal.png" width="180px" alt="图像" onclick="showModal(this)">
 
           <div id="modal" class="modal" onclick="hideModal()">
           <img id="modal-image" class="modal-image">
           </div>
 
-        </div>
+        <!-- </div> -->
         <!-- <script type="text/javascript">
           function bakedsdf_start() {
             document.getElementById('bakedsdf_image').style.opacity = "1";
@@ -124,6 +124,40 @@
         </p> -->
         <p>
           We reveal two characteristic domain conflict issues in the DNN rPPG (<a href="https://www.noldus.com/blog/what-is-rppg">remote photoplethysmography</a>) model training, and propose a new training framework (DOHA) to deal with these conflicts and enhance the performance of rPPG models.
+        </p>
+      </td>
+    </tr>
+
+
+    <tr onmouseout="bakedsdf_stop()" onmouseover="bakedsdf_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle;border-spacing:0px 10px;">
+        <!-- <div class="one" style="border-spacing:0px 10px;"> -->
+          <img class="hover-image", src="images/Frontier_Seal.jpg" width="160px" alt="图像" onclick="showModal(this)">
+
+          <div id="modal" class="modal" onclick="hideModal()">
+          <img id="modal-image" class="modal-image">
+          </div>
+        <!-- </div> -->
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.918296/full">
+          <papertitle>Setup error assessment based on “Sphere-Mask” Optical Positioning System: Results from a multicenter study</papertitle>
+        </a>
+        <br>
+        Yan Zhang, Han Zhou, Kaiyue Chu, Chuanfeng Wu, Yun Ge, Guoping Shan, Jundong Zhou, Jing Cai, Jianhua Jin, <strong>Weiyu Sun</strong>, Ying Chen, Xiaolin Huang
+        <br>
+        <em><a href="https://www.frontiersin.org/">Frontiers in Oncology</a></em>
+        <br>
+        <a href="https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.918296/full">paper website</a>
+        <!-- / -->
+        <!-- <a href="https://www.youtube.com/watch?v=fThKXZ6uDTk">video</a>
+        /
+        <a href="https://arxiv.org/abs/2302.14859">arXiv</a> -->
+        <!-- <p>
+        The main character of this paper is remote photoplethysmography (rPPG), a technique which can monitor the subject's physiological signal (e.g., heart rate) via the facial video.
+        </p> -->
+        <p>
+          The setup accuracy plays an extremely important role in the local control of tumors. The purpose of this study is to verify the feasibility of "Sphere-Mask" Optical Positioning System (S-M_OPS) for fast and accurate setup.
         </p>
       </td>
     </tr>
@@ -495,6 +529,7 @@
      z-index: 9999;
      top: 0;
      left: 0;
+     margin-bottom: 5%;
      width: 100%;
      height: 100%;
      background-color: rgba(0, 0, 0, 0.8);
@@ -502,10 +537,11 @@
 
   .modal-image {
      display: block;
-     max-width: 90%;
-     max-height: 90%;
+     max-width: 100%;
+     max-height: 100%;
      margin: auto;
-     margin-top: 5%;
+     /* margin-top: 5%; */
+     /* margin-bottom: 5%; */
   }
 </style>
 
