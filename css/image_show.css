@@ -19,16 +19,40 @@
     box-shadow: 0 0 1px rgba(0, 0, 0, 0);
 }
 
-/* .hover-image:hover {
-    transform: scale(1.1);
-} */
-
 
 .hover-image:hover, .hover-image:focus, .hover-image:active {
     box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
+
+
+.hover-image-small {
+  width: 120px; /* Set your preferred width */
+  transition: transform 0.3s; /* Add a smooth transition effect */
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+
+.hover-image-small:hover, .hover-image:focus, .hover-image:active {
+  box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.hover-image-big {
+  width: 200px; /* Set your preferred width */
+  transition: transform 0.3s; /* Add a smooth transition effect */
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+
+.hover-image-big:hover, .hover-image:focus, .hover-image:active {
+  box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
 
 /* .hover-image:hover {
     background-color: #4cc9f0;
