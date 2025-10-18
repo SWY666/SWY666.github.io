@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Bachelor’s and Master’s degrees in Electrical Engineering from Nanjing University, and I am currently pursuing a Ph.D. in Electrical Engineering at the Georgia Institute of Technology. I have published several papers with 
- <a href='https://scholar.google.com/citations?user=K0v59bIAAAAJ'>.
+I received my Bachelor’s and Master’s degrees in Electrical Engineering from Nanjing University, and I am currently pursuing a Ph.D. in Electrical Engineering at the Georgia Institute of Technology. I have published several papers with varying fields, you can refer to my
+ <a href='https://scholar.google.com/citations?user=K0v59bIAAAAJ'>Google Scholar</a>, thanks for your interest!
 
 Before coming to Georgia Tech, I collaborated with some nice guys and published some research papers in The Hong Kong University of Science and Technology (Guangzhou), The Pennsylvania State University, and Virginia Tech, seperately. I truly cherish these experiences, they are among the most unforgettable memories of my life, and I am deeply grateful to all the collaborators who shared those times with me.
 
@@ -28,12 +28,27 @@ My research interest includes:
 - human-computer interaction
 - Medical image/signal processing
 
-<!-- # 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
- 
+# 🎓 Educations 
+- *2019.06 - 2022.12*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="/images/NJU-logo.svg" width="23pt"></a> School of Electronic Science and Engineering, Nanjing University, China. 
+- *2015.09 - 2019.06*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="/images/NJU-logo.svg" width="20pt"></a> School of Electronic Science and Engineering, Nanjing University, China.
 
-# 📝 Publications 
+# 🏭 Internships & Visiting Experience
+- *2023.12 - 2024.06*, <a href="https://www.vt.edu/">Virginia Tech</a>, published one paper in EMNLP.
+- *2023.01 - 2023.12*, <a href="https://www.psu.edu/">Penn State University</a>, published one paper in ICLR.
+- *2022.09 - 2023.01*, <a href="https://www.nju.edu.cn/en/">Nanjing University</a> & <a href="https://www.hkust-gz.edu.cn/">HKUST(Guangzhou)</a>, published one paper in ACM MM and one paper in IEEE TMM.
+
+<!-- # 🏅 Honors and Awards
+- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition. -->
+
+
+
+
+
+
+
+
+
+<!-- # 📝 Publications 
 
 ### English 
 ---
@@ -144,12 +159,12 @@ My research interest includes:
 
 -	Hang Yang, Shenghan Wang, `Jian Tang`, Yihua Kang. Automatic eddy current testing method and system for camshaft. *Nondestructive Testing*. 2020, 42(11): 61.  
 杨航, 汪圣涵, 唐健, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202011013) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
+[[HTML]](https://dx.doi.org/10.11973/wsjc202011013) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)   -->
 
 
 
 
-# 🏅 Honors and Awards
+<!-- # 🏅 Honors and Awards
 - *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
 - *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
 - *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
@@ -165,4 +180,3 @@ My research interest includes:
 - *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
 - *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
 - *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China. -->
-  
