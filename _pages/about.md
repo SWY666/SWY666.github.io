@@ -29,8 +29,8 @@ My research interest includes:
 - Medical image/signal processing
 
 # 🎓 Educations 
-- *2019.06 - 2022.12*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="../images/NJU-logo.svg" width="23pt"></a> School of Electronic Science and Engineering, Nanjing University, China. 
-- *2015.09 - 2019.06*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="../images/NJU-logo.svg" width="20pt"></a> School of Electronic Science and Engineering, Nanjing University, China.
+- *2019.06 - 2022.12*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="images/NJU-logo.svg" width="23pt"></a> School of Electronic Science and Engineering, Nanjing University, China. 
+- *2015.09 - 2019.06*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="images/NJU-logo.svg" width="20pt"></a> School of Electronic Science and Engineering, Nanjing University, China.
 
 # 🏭 Internships & Visiting Experience
 - *2023.12 - 2024.06*, <a href="https://www.vt.edu/">Virginia Tech</a>, published one paper in EMNLP.
