@@ -28,6 +28,16 @@ My research interest includes:
 - human-computer interaction
 - Medical image/signal processing
 
+# 🎓 Educations
+- *2024.08 - presnet*, <a href="https://www.gatech.edu/"><img class="png" src="images/GT-logo.png" width="23pt"></a> School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta. 
+- *2019.06 - 2022.12*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="images/NJU-logo.svg" width="23pt"></a> School of Electronic Science and Engineering, Nanjing University, China. 
+- *2015.09 - 2019.06*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="images/NJU-logo.svg" width="20pt"></a> School of Electronic Science and Engineering, Nanjing University, China.
+
+# 🏭 Internships & Visiting Experience
+- *2023.12 - 2024.06*, <a href="https://www.vt.edu/">Virginia Tech</a>, published one paper in EMNLP.
+- *2023.01 - 2023.12*, <a href="https://www.psu.edu/">Penn State University</a>, published one paper in ICLR.
+- *2022.09 - 2023.01*, <a href="https://www.nju.edu.cn/en/">Nanjing University</a> & <a href="https://www.hkust-gz.edu.cn/">HKUST(Guangzhou)</a>, published one paper in ACM MM and one paper in IEEE TMM.
+
 # 📝 Publications (selected)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/EMNLP2024.png' alt="sym" width="100%"></div></div>
@@ -39,7 +49,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR_paper_figure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR_paper_figure.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Weiyu Sun`, Xinyu Zhang, LU Hao, Ying-Cong Chen, Ting Wang, Jinghui Chen, Lu Lin. "Backdoor Contrastive Learning via Bi-level Trigger Optimization."
@@ -50,7 +60,7 @@ My research interest includes:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div>
 <div style="display: flex; justify-content: center;">
-  <img src='images/ACMMM2023_paper_fig.png' alt="sym" width="55%">
+  <img src='images/ACMMM2023_paper_fig.png' alt="sym" width="50%">
 </div>
 </div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,16 +70,6 @@ My research interest includes:
 
 </div>
 </div>
-
-# 🎓 Educations
-- *2024.08 - presnet*, <a href="https://www.gatech.edu/"><img class="png" src="images/GT-logo.png" width="23pt"></a> School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta. 
-- *2019.06 - 2022.12*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="images/NJU-logo.svg" width="23pt"></a> School of Electronic Science and Engineering, Nanjing University, China. 
-- *2015.09 - 2019.06*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="images/NJU-logo.svg" width="20pt"></a> School of Electronic Science and Engineering, Nanjing University, China.
-
-# 🏭 Internships & Visiting Experience
-- *2023.12 - 2024.06*, <a href="https://www.vt.edu/">Virginia Tech</a>, published one paper in EMNLP.
-- *2023.01 - 2023.12*, <a href="https://www.psu.edu/">Penn State University</a>, published one paper in ICLR.
-- *2022.09 - 2023.01*, <a href="https://www.nju.edu.cn/en/">Nanjing University</a> & <a href="https://www.hkust-gz.edu.cn/">HKUST(Guangzhou)</a>, published one paper in ACM MM and one paper in IEEE TMM.
 
 # 🏅 Honors and Awards
 - *2022*  National Second Prize (top 10%) in China Post-graduate Mathematical Contest in Modeling, 19th.
