@@ -28,22 +28,6 @@ My research interest includes:
 - human-computer interaction
 - Medical image/signal processing
 
-# 🎓 Educations 
-- *2019.06 - 2022.12*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="images/NJU-logo.svg" width="23pt"></a> School of Electronic Science and Engineering, Nanjing University, China. 
-- *2015.09 - 2019.06*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="images/NJU-logo.svg" width="20pt"></a> School of Electronic Science and Engineering, Nanjing University, China.
-
-# 🏭 Internships & Visiting Experience
-- *2023.12 - 2024.06*, <a href="https://www.vt.edu/">Virginia Tech</a>, published one paper in EMNLP.
-- *2023.01 - 2023.12*, <a href="https://www.psu.edu/">Penn State University</a>, published one paper in ICLR.
-- *2022.09 - 2023.01*, <a href="https://www.nju.edu.cn/en/">Nanjing University</a> & <a href="https://www.hkust-gz.edu.cn/">HKUST(Guangzhou)</a>, published one paper in ACM MM and one paper in IEEE TMM.
-
-# 🏅 Honors and Awards
-- *2022*  National Second Prize (top 10%) in China Post-graduate Mathematical Contest in Modeling, 19th.
-- *2022*  Bronze medal in Jiangsu Province, Microsoft Innovation Cup Global Student Technology Competition.
-- *2018*  People’s Scholarship of China.
-- *2014*  Second Prize in Jiangsu Chemistry Olympiad Competition.
-- *2014*  Second Prize in Jiangsu Physics Olympiad Competition.
-
 # 📝 Publications (selected)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/EMNLP2024.png' alt="sym" width="100%"></div></div>
@@ -77,6 +61,22 @@ My research interest includes:
 </div>
 </div>
 
+# 🎓 Educations
+- *2024.08 - presnet*, <a href="https://www.gatech.edu/"><img class="png" src="images/GT-logo.png" width="23pt"></a> School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta. 
+- *2019.06 - 2022.12*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="images/NJU-logo.svg" width="23pt"></a> School of Electronic Science and Engineering, Nanjing University, China. 
+- *2015.09 - 2019.06*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="images/NJU-logo.svg" width="20pt"></a> School of Electronic Science and Engineering, Nanjing University, China.
+
+# 🏭 Internships & Visiting Experience
+- *2023.12 - 2024.06*, <a href="https://www.vt.edu/">Virginia Tech</a>, published one paper in EMNLP.
+- *2023.01 - 2023.12*, <a href="https://www.psu.edu/">Penn State University</a>, published one paper in ICLR.
+- *2022.09 - 2023.01*, <a href="https://www.nju.edu.cn/en/">Nanjing University</a> & <a href="https://www.hkust-gz.edu.cn/">HKUST(Guangzhou)</a>, published one paper in ACM MM and one paper in IEEE TMM.
+
+# 🏅 Honors and Awards
+- *2022*  National Second Prize (top 10%) in China Post-graduate Mathematical Contest in Modeling, 19th.
+- *2022*  Bronze medal in Jiangsu Province, Microsoft Innovation Cup Global Student Technology Competition.
+- *2018*  People’s Scholarship of China.
+- *2014*  Second Prize in Jiangsu Chemistry Olympiad Competition.
+- *2014*  Second Prize in Jiangsu Physics Olympiad Competition.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
