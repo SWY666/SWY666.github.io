@@ -20,7 +20,7 @@ redirect_from:
 I received my Bachelor’s and Master’s degrees in Electrical Engineering from Nanjing University, and I am currently pursuing a Ph.D. in Electrical Engineering at the Georgia Institute of Technology. I have published several papers with varying fields, you can refer to my
  <a href='https://scholar.google.com/citations?user=K0v59bIAAAAJ'>Google Scholar</a>, thanks for your interest!
 
-Before coming to Georgia Tech, I collaborated with some nice guys and published some research papers in The Hong Kong University of Science and Technology (Guangzhou), The Pennsylvania State University, and Virginia Tech, seperately. I truly cherish these experiences, they are among the most unforgettable memories of my life, and I am deeply grateful to all the collaborators who shared those times with me.
+Before coming to Georgia Tech, I collaborated with some nice guys and published some research papers in <a href="https://www.hkust-gz.edu.cn/">the Hong Kong University of Science and Technology (Guangzhou)</a>, <a href="https://www.psu.edu/">Penn State University</a>, and <a href="https://www.vt.edu/">Virginia Tech</a>, seperately. I truly cherish these experiences, they are among the most unforgettable memories of my life, and I am deeply grateful to all the collaborators who shared those times with me.
 
 My research interest includes: 
 - AI security & Trustworthy AI
@@ -37,15 +37,12 @@ My research interest includes:
 - *2023.01 - 2023.12*, <a href="https://www.psu.edu/">Penn State University</a>, published one paper in ICLR.
 - *2022.09 - 2023.01*, <a href="https://www.nju.edu.cn/en/">Nanjing University</a> & <a href="https://www.hkust-gz.edu.cn/">HKUST(Guangzhou)</a>, published one paper in ACM MM and one paper in IEEE TMM.
 
-<!-- # 🏅 Honors and Awards
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition. -->
-
-
-
-
-
-
-
+# 🏅 Honors and Awards
+- *2022*  Ranked the Bronze medal in Jiangsu Province, Microsoft Innovation Cup Global Student Technology Competition.
+- *2022*  Ranked the National Second Prize (top 10%) in China Post-graduate Mathematical Contest in Modeling, 19th.
+- *2018*  Awarded the People’s Scholarship of China.
+- *2014*  Ranked the Second Prize in Jiangsu Chemistry Olympiad Competition.
+- *2014*  Ranked the Second Prize in Jiangsu Physics Olympiad Competition.
 
 
 <!-- # 📝 Publications 
