@@ -22,7 +22,7 @@ I received my Bachelor’s and Master’s degrees in Electrical Engineering from
 
 Before coming to Georgia Tech, I collaborated with some nice guys and published some research papers in <a href="https://www.hkust-gz.edu.cn/">the Hong Kong University of Science and Technology (Guangzhou)</a>, <a href="https://www.psu.edu/">Penn State University</a>, and <a href="https://www.vt.edu/">Virginia Tech</a>, seperately. I truly cherish these experiences, they are among the most unforgettable memories of my life, and I am deeply grateful to all the collaborators who shared those times with me.
 
-My research interest includes: 
+My research interest includes:
 - AI security & Trustworthy AI
 - AI for Education
 - human-computer interaction
@@ -38,11 +38,11 @@ My research interest includes:
 - *2022.09 - 2023.01*, <a href="https://www.nju.edu.cn/en/">Nanjing University</a> & <a href="https://www.hkust-gz.edu.cn/">HKUST(Guangzhou)</a>, published one paper in ACM MM and one paper in IEEE TMM.
 
 # 🏅 Honors and Awards
-- *2022*  Ranked the Bronze medal in Jiangsu Province, Microsoft Innovation Cup Global Student Technology Competition.
-- *2022*  Ranked the National Second Prize (top 10%) in China Post-graduate Mathematical Contest in Modeling, 19th.
-- *2018*  Awarded the People’s Scholarship of China.
-- *2014*  Ranked the Second Prize in Jiangsu Chemistry Olympiad Competition.
-- *2014*  Ranked the Second Prize in Jiangsu Physics Olympiad Competition.
+- *2022*  National Second Prize (top 10%) in China Post-graduate Mathematical Contest in Modeling, 19th.
+- *2022*  Bronze medal in Jiangsu Province, Microsoft Innovation Cup Global Student Technology Competition.
+- *2018*  People’s Scholarship of China.
+- *2014*  Second Prize in Jiangsu Chemistry Olympiad Competition.
+- *2014*  Second Prize in Jiangsu Physics Olympiad Competition.
 
 
 <!-- # 📝 Publications 
