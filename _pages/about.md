@@ -46,7 +46,7 @@ My research interest includes:
 
 # 📝 Publications (selected)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='../images/EMNLP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/EMNLP2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Yi Zeng*, `Weiyu Sun*`, Tran Ngoc Huynh, Dawn Song, Bo Li, Ruoxi Jia. "BEEAR: Embedding-based Adversarial Removal of Safety Backdoors in Instruction-tuned Language Models."
@@ -55,7 +55,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='../images/ICLR_paper_figure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR_paper_figure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Weiyu Sun`, Xinyu Zhang, LU Hao, Ying-Cong Chen, Ting Wang, Jinghui Chen, Lu Lin. "Backdoor Contrastive Learning via Bi-level Trigger Optimization."
@@ -64,7 +64,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='../images/ACMMM2023_paper_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/ACMMM2023_paper_fig.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Weiyu Sun`, Xinyu Zhang, Hao Lu, Ying Chen, Yun Ge, Xiaolin Huang, Jie Yuan, Yingcong Chen. "Resolve Domain Conflicts for Generalizable Remote Physiological Measurement."
