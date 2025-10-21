@@ -46,7 +46,7 @@ My research interest includes:
 
 # 📝 Publications (selected)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/emnlp-2024-logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/EMNLP2024.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Yi Zeng*, `Weiyu Sun*`, Tran Ngoc Huynh, Dawn Song, Bo Li, Ruoxi Jia. "BEEAR: Embedding-based Adversarial Removal of Safety Backdoors in Instruction-tuned Language Models."
