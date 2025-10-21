@@ -64,7 +64,11 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/ACMMM2023_paper_fig.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div>
+<div style="display: flex; justify-content: center;">
+  <img src='images/ACMMM2023_paper_fig.png' alt="sym" width="55%">
+</div>
+</div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Weiyu Sun`, Xinyu Zhang, Hao Lu, Ying Chen, Yun Ge, Xiaolin Huang, Jie Yuan, Yingcong Chen. "Resolve Domain Conflicts for Generalizable Remote Physiological Measurement."
