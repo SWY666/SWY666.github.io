@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🤗 About myself
 I received my Bachelor’s and Master’s degrees in Electrical Engineering from Nanjing University, and I am currently pursuing a Ph.D. in Electrical Engineering at the Georgia Institute of Technology. I have published several papers with varying fields, you can refer to my
  <a href='https://scholar.google.com/citations?user=K0v59bIAAAAJ'>Google Scholar</a>, thanks for your interest!
 
