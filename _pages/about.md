@@ -63,7 +63,10 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR_paper_figure.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div>
+<div style="display: flex; justify-content: center;">
+  <img src='images/ICLR_paper_figure.png' alt="sym" width="90%">
+</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Weiyu Sun`, Xinyu Zhang, LU Hao, Ying-Cong Chen, Ting Wang, Jinghui Chen, Lu Lin. "Backdoor Contrastive Learning via Bi-level Trigger Optimization."
