@@ -41,7 +41,7 @@ My research interest includes:
 
 # 📝 Publications (selected)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Findings)</div><img src='images/ACL2026_findings_tight.png' alt="sym" style="width: 53%; height: auto;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="display: flex; justify-content: center;"><div><div class="badge">ACL 2026 (Findings)</div><img src='images/ACL2026_findings_tight.png' alt="sym" style="width: 53%; height: auto;"></div></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Weiyu Sun`, Liangliang Chen, Yongnuo Cai, Huiru Xie, Yi Zeng, Ying Zhang. "EDU-CIRCUIT-HW: Evaluating Multimodal Large Language Models on Real-World University-Level STEM Student Handwritten Solutions."
